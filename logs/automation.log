@@ -20,3 +20,14 @@
 2025-06-14 11:07:28 INFO  TC001_AccountRegistrationTest:50 - *****Finished TC001_AccountRegistrationTest******
 2025-06-14 11:07:37 INFO  TC002_LoginTest:16 - ****Starting TC002_LoginTest 
 2025-06-14 11:07:38 INFO  TC002_LoginTest:32 - ******Finished TC002_LoginTest*****
+2025-06-14 18:58:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\13092\Opencart121\master.xml
+
+2025-06-14 18:58:14 INFO  TC001_AccountRegistrationTest:18 - *****Starting TC001_AccountRegistrationTest******
+2025-06-14 18:58:14 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAcount....
+2025-06-14 18:58:14 INFO  TC001_AccountRegistrationTest:24 - Clicked on register....
+2025-06-14 18:58:15 INFO  TC001_AccountRegistrationTest:26 - Entering the customer's details
+2025-06-14 18:58:18 INFO  TC001_AccountRegistrationTest:38 - Validating the expected message.....
+2025-06-14 18:58:18 INFO  TC001_AccountRegistrationTest:50 - *****Finished TC001_AccountRegistrationTest******
+2025-06-14 18:58:27 INFO  TC002_LoginTest:16 - ****Starting TC002_LoginTest 
+2025-06-14 18:58:28 INFO  TC002_LoginTest:32 - ******Finished TC002_LoginTest*****
